@@ -23,7 +23,7 @@ public class NhanVienController {
 //    public ResponseEntity<String> deleteEmployee(@PathVariable("id") int id){
 //        System.out.println("Delete Employee With ID = "+id+"..............");
 //        return nhanVienService.deleteEmployee(id);
-//    }
+//    }cx
 //
 //    @GetMapping("/detail/{id}")
 //    public NhanVien getEmployeeByID(@PathVariable("id") int id){
